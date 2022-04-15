@@ -1,0 +1,15 @@
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/bin/Debug/net6.0/RecursionTask
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/bin/Debug/net6.0/RecursionTask.deps.json
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/bin/Debug/net6.0/RecursionTask.runtimeconfig.json
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/bin/Debug/net6.0/RecursionTask.dll
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/bin/Debug/net6.0/RecursionTask.pdb
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.csproj.AssemblyReference.cache
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.GeneratedMSBuildEditorConfig.editorconfig
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.AssemblyInfoInputs.cache
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.AssemblyInfo.cs
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.csproj.CoreCompileInputs.cache
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.dll
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/refint/RecursionTask.dll
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.pdb
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.genruntimeconfig.cache
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/ref/RecursionTask.dll
