@@ -6,7 +6,7 @@ namespace RecursionTask
     {
         static void Main(string[] args)
         {
-            string txtPath = @"/home/milobg/Documents/Web Development/CSharp/RecursionTask/Data.txt";
+            string txtPath = @"/Data.txt";
             List<string> lines = new List<string>();
             List<Lines> textData = new List<Lines>();
 
