@@ -13,3 +13,5 @@
 /home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.pdb
 /home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.genruntimeconfig.cache
 /home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/ref/RecursionTask.dll
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/bin/Debug/net6.0/Dapper.dll
+/home/milobg/Documents/Web Development/CSharp/RecursionTask/obj/Debug/net6.0/RecursionTask.csproj.CopyComplete

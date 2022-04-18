@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TwSP45v5qSvfPvQOtuIFXqVqwU/iMTdh6RCaiyYLpj/ldBb1hkReoJToBmGrIkHiiZzHJNLild2YPBSWYzzd4g==",
+  "dgSpecHash": "T7Th7OiozGsGcQlhKZjDIj1uhblyvHPp8XyoZzdxpnxqNSRG8s0t8ApY6uSAl9X15U9lSNEAXN0h0d3gUqF7+Q==",
   "success": true,
   "projectFilePath": "/home/milobg/Documents/Web Development/CSharp/RecursionTask/RecursionTask.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/milobg/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512"
+  ],
   "logs": []
 }
